@@ -1,0 +1,60 @@
+#logo>img{
+    width: 200px;
+    margin: auto;
+}
+#logo, #connect {
+    text-align: center;
+    margin-top: 100px;
+}
+#connect>a>button{
+    background-color: #ce2930;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 2rem;
+    border: #ffffff 1px solid;
+    border-radius: 100px;
+    padding: 0.5rem;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+/* LES CLASS CSS AVEC POUR SYMBOLE . */
+.champs{
+    margin:1rem;
+    align-content: center;
+    text-align: center;
+}
+.champs>input{
+    width: 300px;
+    border-radius: 20px;
+    padding: 1rem;
+}
+
+h1{
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+}
+.buttons>input{
+    text-align: center;
+    margin: 1rem;
+    padding: auto;
+    background-color: #ce2930;
+    color: white;
+    border-radius: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 2rem;
+    border: #ffffff 1px solid;
+    padding: 0.5rem;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+body{
+    background-color: pink;
+}
